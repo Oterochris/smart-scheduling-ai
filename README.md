@@ -1,3 +1,5 @@
+# Smart Scheduling AI Platform
+
 An intelligent scheduling and resource management system specifically designed for maintenance, construction, and industrial sectors. This AI-powered platform optimizes workforce management, equipment utilization, and project scheduling while considering industry-specific constraints and requirements.
 
 ## 🎯 Industry Focus
